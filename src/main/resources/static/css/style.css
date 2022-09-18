@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+header {
+	height:70px;
+	background-color:#E6749D;
+}
+
+.contents {
+	
+}
+
+.contents > .join-box {
+	
+	width:300px;
+}
+
+footer {
+	height:70px;
+	background-color:#E6749D;
+}
+
+.image-icon{
+	font-size:18px;
+}
